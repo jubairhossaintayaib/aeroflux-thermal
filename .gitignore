@@ -1,0 +1,4 @@
+# Private capture of the third-party reference template (see SOURCES.md); not part of the site
+reference/
+
+node_modules/
